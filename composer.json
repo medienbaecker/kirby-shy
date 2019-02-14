@@ -1,0 +1,12 @@
+{
+  "name": "medienbaecker/shy",
+  "description": "Kirby Shy Converter",
+  "license": "MIT",
+  "authors": [
+    {
+        "name": "Thomas Günther",
+        "email": "mail@medienbaecker.com",
+        "homepage": "https://www.medienbaecker.com"
+    }
+  ]
+}
