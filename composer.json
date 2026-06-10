@@ -2,11 +2,19 @@
   "name": "medienbaecker/shy",
   "description": "Kirby Shy Converter",
   "license": "MIT",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
   "authors": [
     {
-        "name": "Thomas Günther",
-        "email": "mail@medienbaecker.com",
-        "homepage": "https://www.medienbaecker.com"
+      "name": "Thomas Günther",
+      "email": "mail@medienbaecker.com"
     }
-  ]
+  ],
+  "support": {
+    "source": "https://github.com/medienbaecker/kirby-shy"
+  },
+  "require": {
+    "getkirby/composer-installer": "^1.1 || ^1.2",
+    "getkirby/cms": "^3.0 || ^4.0 || ^5.0"
+  }
 }
